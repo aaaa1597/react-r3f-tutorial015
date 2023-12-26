@@ -32,7 +32,7 @@ module.exports = {
         "react"
     ],
     "rules": {
-        "react/no-unknown-property": ['error', { ignore: ['css', "args", 'wireframe', 'rotation-x', 'rotation'] }],
+        "react/no-unknown-property": ['error', { ignore: ['css', "args", 'rotation-x', "castShadow", 'receiveShadow'] }],
         "no-empty-function":  ["warn"],
     }
 }
