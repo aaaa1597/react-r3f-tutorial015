@@ -10,4 +10,4 @@ React+TypeScriptなWebアプリで、R3Fのtutorial15。(useLoader)
 <img src="https://storage.googleapis.com/zenn-user-upload/471296c12993-20231226.png" width="300px">
 
 # ポイント
-- useLoader()で指定する画像の位置は、public配下で。
+- useLoader()で読み込む画像の位置は、public配下で。
